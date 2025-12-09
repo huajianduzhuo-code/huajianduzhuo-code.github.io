@@ -11,35 +11,29 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* **Ph.D. in Operations Research**, University of California, Berkeley, 2023 - Present
+* **Bachelor of Economics**, Peking University, 2018 - 2022
+* **B.S. in Mathematics**, Peking University, 2018 - 2022
 
-Work experience
+Research Interests
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+Controllable Generative AI, Diffusion Models, Large Language Models, LLM Agent, Optimization, Stochastic Modeling, A/B Tests, Experiment Design
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+Professional Experience
+======
+* **Quantitative Researcher** (Full-time), Optiver, Sep 2022 - Jul 2023
+  * Developed medium-frequency trading and execution strategies for convertible bonds
+  * Designed and implemented stock index and ETF trading systems
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
+* **Software Development Intern**, Shanghai Aizeer Information Technology Co., Ltd., May 2024 - Aug 2024
+  * Developed real-time driving state recognition algorithm based on iPhone sensors
+  * Developed generative AI model for controllable symbolic music generation
+
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* **Programming Languages**: Python, C/C++
+* **Deep Learning Frameworks**: PyTorch, TensorFlow
+* **Data Systems**: SQL
 
 Publications
 ======
@@ -47,18 +41,17 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
 Teaching
 ======
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Service and leadership
+
+Awards
 ======
-* Currently signed in to 43 different slack teams
+* IEOR First Year Faculty Fellowship, 2024
+* National Scholarship (highest honor for college students in China), 2021
+* May 4th Scholarship (highest honor at Peking University), 2019 & 2020
+* First Prize in National Mathematics Competition (top 1% in Beijing), 2019 & 2020
+* First Place in "Challenge Cup" Competition of Peking University, 2019 & 2020
+* Merit Student Pacesetter (highest individual honor award), 2020
