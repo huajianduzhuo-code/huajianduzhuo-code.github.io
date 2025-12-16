@@ -29,7 +29,7 @@ Yes, I do stand-up comedy! Xiangsheng is a traditional Chinese comedic performan
 Making people laugh is seriously underrated as a life skill. It's a completely different kind of performance compared to academic presentations!
 
 ## 🏔️ Getting Outdoors
-<img src="/images/bike.jpg" alt="Performing Xiangsheng" style="max-width: 450px; display: block; margin: 15px auto; border-radius: 8px;">
+<img src="/images/bike.jpg" alt="Cycling outdoors" style="max-width: 450px; display: block; margin: 15px auto; border-radius: 8px;">
 
 Hiking, cycling, rock climbing... basically anything that gets me away from screens and into nature. The Bay Area is perfect for this.
 
