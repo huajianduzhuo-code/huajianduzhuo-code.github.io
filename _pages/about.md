@@ -1,13 +1,15 @@
 ---
 permalink: /
-title: "About Me"
+title: "Haoyu Liu"
 author_profile: true
+description: Haoyu Liu is a Ph.D. candidate in Industrial Engineering and Operations Research at UC Berkeley.
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-I am a Ph.D. candidate in the Department of [Industrial Engineering and Operations Research (IEOR)](https://ieor.berkeley.edu/) at the [University of California, Berkeley](https://www.berkeley.edu/), where I am fortunate to be advised by Prof. [Zeyu Zheng](https://zheng80.github.io/). Before coming to Berkeley, I worked as a full-time Quantitative Researcher at [Optiver](https://www.optiver.com/) in Shanghai (2022-2023). I received my Bachelor of Economics from the [Guanghua School of Management](https://www.gsm.pku.edu.cn/) and B.S. in Mathematics from the [School of Mathematical Sciences](https://www.math.pku.edu.cn/) at [Peking University](https://www.pku.edu.cn/) in 2022.
+I am **Haoyu Liu (刘浩宇)**, a Ph.D. candidate in the Department of [Industrial Engineering and Operations Research (IEOR)](https://ieor.berkeley.edu/) at the [University of California, Berkeley](https://www.berkeley.edu/), where I am fortunate to be advised by Prof. [Zeyu Zheng](https://zheng80.github.io/). Before coming to Berkeley, I worked as a full-time Quantitative Researcher at [Optiver](https://www.optiver.com/) in Shanghai (2022-2023). I received my Bachelor of Economics from the [Guanghua School of Management](https://www.gsm.pku.edu.cn/) and B.S. in Mathematics from the [School of Mathematical Sciences](https://www.math.pku.edu.cn/) at [Peking University](https://www.pku.edu.cn/) in 2022.
+
 
 ## Research Interests
 
