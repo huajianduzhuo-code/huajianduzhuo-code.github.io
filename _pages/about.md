@@ -22,26 +22,39 @@ My research focuses on the intersection of **machine learning** and **operations
 ## Selected Publications
 
 ### Conference Papers
-1. **[Efficient Fine-Grained Guidance for Diffusion Model Based Symbolic Music Generation](https://icml.cc/virtual/2025/poster/44043)**  
+1. **[Dual-Modality Multi-Stage Adversarial Safety Training: Robustifying Multimodal Web Agents Against Cross-Modal Attacks](https://arxiv.org/abs/2603.04364)** (DMAST)  
+   H. Liu, D. Li, L. Rutishauser, Z. Zheng  
+   *Conference on Empirical Methods in Natural Language Processing (EMNLP)*, 2026 (accepted)  
+   [Code](https://github.com/huajianduzhuo-code/DMAST_official)
+
+2. **[Spiral RoPE: Rotate Your Rotary Positional Embeddings in the 2D Plane](https://proceedings.mlr.press/v306/liu26dj.html)**  
+   H. Liu, S. Ren, T. Zhu, P. Wang, C. Xie, A. Yuille, Z. Zheng, F. Wang  
+   *International Conference on Machine Learning (ICML)*, 2026  
+   [arXiv](https://arxiv.org/abs/2602.03227) · [Code](https://github.com/huajianduzhuo-code/Spiral_RoPE)
+
+3. **[Efficient Fine-Grained Guidance for Diffusion Model Based Symbolic Music Generation](https://icml.cc/virtual/2025/poster/44043)**  
    H. Liu†, T. Zhu†, Z. Wang, Z. Jiang, Z. Zheng (†co-first author)  
    *International Conference on Machine Learning (ICML)*, 2025  
    <span style="color: #1a5276;">🎵 *Curious about the AI-generated music? Check out our [demo page](https://huajianduzhuo-code.github.io/FGG-diffusion-music/) and listen to them!*</span>
 
-2. **[Large Language Model Assisted Experiment Design with Generative Human-Behavior Agents](https://ieeexplore.ieee.org/abstract/document/10838726)**  
+4. **[Large Language Model Assisted Experiment Design with Generative Human-Behavior Agents](https://ieeexplore.ieee.org/abstract/document/10838726)**  
    H. Liu, Y. Tang, Z. Zhang, Z. Zheng, T. Zhu  
    *Winter Simulation Conference (WSC)*, 2024
 
 ### Journal Articles
-1. **[Learning to Simulate Sequentially Generated Data via Neural Networks and Wasserstein Training](https://doi.org/10.1145/3583070)**  
+1. **[Learning to Simulate from Heavy-Tailed Distribution via Diffusion Model](https://doi.org/10.1287/opre.2024.1450)**  
+   H. Liu†, T. Zhu†, N. Jia, J. He, Z. Zheng (†co-first author)  
+   *Operations Research*, 2026 (Articles in Advance)
+
+2. **[Learning to Simulate Sequentially Generated Data via Neural Networks and Wasserstein Training](https://doi.org/10.1145/3583070)**  
    (with Tingyu Zhu and Zeyu Zheng)  
    *ACM Transactions on Modeling and Computer Simulation*, 33(3), 2023
 
-2. **[On the Concavity of Consumption Function under Habit Formation](https://doi.org/10.1016/j.jmateco.2023.102829)**  
+3. **[On the Concavity of Consumption Function under Habit Formation](https://doi.org/10.1016/j.jmateco.2023.102829)**  
    (with Lun Li)  
    *Journal of Mathematical Economics*, 106, 2023
 
 ### Preprints
-- [Learning to Generate Heavy-tailed Conditional Distribution via Diffusion Model](https://ssrn.com/abstract=4975931) *(Under major revision)*
 - [IDA-Bench: Evaluating LLMs on Interactive Guided Data Analysis](https://arxiv.org/abs/2505.18223)
 - [Structured Diffusion Models with Mixture of Gaussians as Prior Distribution](https://arxiv.org/abs/2410.19149)
 
